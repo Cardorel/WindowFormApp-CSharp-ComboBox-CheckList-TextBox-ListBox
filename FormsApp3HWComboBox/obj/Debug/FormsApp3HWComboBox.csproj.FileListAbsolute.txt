@@ -1,0 +1,10 @@
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\bin\Debug\FormsApp3HWComboBox.exe.config
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\bin\Debug\FormsApp3HWComboBox.exe
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\bin\Debug\FormsApp3HWComboBox.pdb
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.csprojAssemblyReference.cache
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.Form1.resources
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.Properties.Resources.resources
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.csproj.GenerateResource.cache
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.csproj.CoreCompileInputs.cache
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.exe
+C:\Users\OFouda\source\repos\FormsApp3HWComboBox\FormsApp3HWComboBox\obj\Debug\FormsApp3HWComboBox.pdb
